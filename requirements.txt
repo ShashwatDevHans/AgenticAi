@@ -1,2 +1,4 @@
 ipykernel
-dotenv
+python-dotenv
+langchain
+langchain_community
